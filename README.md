@@ -111,4 +111,4 @@ Full pricing and feature comparison: **[anguskit.com/pricing](https://www.angusk
 
 - This repository's documentation content: see [LICENSE](LICENSE) (GPL-3.0, matching the Community Edition source it describes).
 - AngusTester Community Edition product source: GPL-3.0, distributed with each Community installation package.
-- AngusTester Team / Enterprise Edition: proprietary, [XCan Business License, Version 1.0](LICENSE-XCBL-1.0) (XCBL-1.0) — see https://www.anguskit.com/licenses/XCBL-1.0. Distributed under a paid subscription only.
+- AngusTester Team / Enterprise Edition: proprietary, [XCan Business License, Version 1.0](https://www.anguskit.com/licenses/XCBL-1.0) (XCBL-1.0) — see https://www.anguskit.com/licenses/XCBL-1.0. Distributed under a paid subscription only.
