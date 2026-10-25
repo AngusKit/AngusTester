@@ -111,4 +111,4 @@ cd AngusTester-2.0.0
 
 - 本仓库文档内容：见 [LICENSE](LICENSE)（GPL-3.0，与其描述的社区版源码保持一致）。
 - AngusTester 社区版产品源码：GPL-3.0，随每个社区版安装包分发。
-- AngusTester 团队版/企业版：专有软件，[XCan Business License, Version 1.0](LICENSE-XCBL-1.0)（XCBL-1.0）— 详见 https://www.anguskit.com/licenses/XCBL-1.0，仅随付费订阅提供。
+- AngusTester 团队版/企业版：专有软件，[XCan Business License, Version 1.0](https://www.anguskit.com/licenses/XCBL-1.0)（XCBL-1.0）— 详见 https://www.anguskit.com/licenses/XCBL-1.0，仅随付费订阅提供。
